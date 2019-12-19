@@ -1,49 +1,24 @@
 # Shieldon Translations
 
-## Website 
+Here are the translations of Shieldon library. Please follow the link of the specific language, and then edit the files.
 
-| Code | Name | Link | Contributors |
-| --- | --- | --- | --- |
-| en | English | - | - | 
-|zh | 中文| - |  - | 
-|ru | Pусский| - |  - | 
-|de | Deutsch| - |  - | 
-|ja | 日本語| - |  - | 
-|ko | 한국어| - |  - | 
-|pt | Português| - | - | 
-|es | Espanol| - |  - | 
-|it | Italiano| - |  - | 
-|fr | Française| - |  - | 
-|zh_TW | 简体中文| - |  - | 
+Thanks for your contributing.
 
 ## Library
 
 | Code | Name | Link | Contributors |
 | --- | --- | --- | --- |
-| en | English | - | - | 
-|zh | 中文| - |  - | 
-|ru | Pусский| - |  - | 
-|de | Deutsch| - |  - | 
-|ja | 日本語| - |  - | 
-|ko | 한국어| - |  - | 
-|pt | Português| - | - | 
-|es | Espanol| - |  - | 
-|it | Italiano| - |  - | 
-|fr | Française| - |  - | 
-|zh_TW | 简体中文| - |  - | 
+| en | English | [link](https://github.com/shieldon-io/website-translations/tree/master/en) | - | 
+| zh | 中文| - |  [link](https://github.com/shieldon-io/website-translations/tree/master/zh) | - |
+| ru | Pусский | [link](https://github.com/shieldon-io/website-translations/tree/master/ru) |  - | 
+| de | Deutsch| [link](https://github.com/shieldon-io/website-translations/tree/master/de) |  - | 
+| ja | 日本語 | [link](https://github.com/shieldon-io/website-translations/tree/master/ja) |  - | 
+| ko | 한국어 | [link](https://github.com/shieldon-io/website-translations/tree/master/ko) |  - | 
+| pt | Português | [link](https://github.com/shieldon-io/website-translations/tree/master/pt) | - | 
+| es | Espanol | [link](https://github.com/shieldon-io/website-translations/tree/master/es) |  - | 
+| it | Italiano | [link](https://github.com/shieldon-io/website-translations/tree/master/it) |  - | 
+| fr | Française | [link](https://github.com/shieldon-io/website-translations/tree/master/fr) |  - | 
+| zh_CN | 简体中文 | [link](https://github.com/shieldon-io/website-translations/tree/master/zh_CN) |  - | 
 
-## Documents
-
-| Code | Name | Link | Contributors |
-| --- | --- | --- | --- |
-| en | English | - | - | 
-|zh | 中文| - |  - | 
-|ru | Pусский| - |  - | 
-|de | Deutsch| - |  - | 
-|ja | 日本語| - |  - | 
-|ko | 한국어| - |  - | 
-|pt | Português| - | - | 
-|es | Espanol| - |  - | 
-|it | Italiano| - |  - | 
-|fr | Française| - |  - | 
-|zh_TW | 简体中文| - |  - | 
+- [Translate the Documents on shieldon.io](https://github.com/shieldon-io/document-translations)
+- [Translate Shieldon library](https://github.com/shieldon-io/library-translations)
